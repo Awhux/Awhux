@@ -1,19 +1,43 @@
-# About Me
-- 👋 I’m Bruno
-- 👀 I'm Java and PHP Developer
-- 🌱 I’m currently learning Python and JS
-- 🤓 Pentester
+### Oie devs 👋
 
-You can talk to me with my whatsapp (+55 (47) 996-005-671), or with my email (brudoismilequatro@gmail.com)
+Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
-## Currently I'm working in my new project called 'NextLevel'
-I'll publish it as soon as possible.
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-  - It can be used for large or small businesses.
-  - Manage your sells
-  - And more
+<img onerror="alert()" align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-<!---
-Awhux/Awhux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```php
+class Bruno {
+  private $name = "Bruno Maciel";
+  private $age = 17;
+  private $languages = ["JavaScript", "Java", "PHP", "C++"];
+}
+```
+
+## **Linguagens e Ferramentas:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+
+
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Awhux">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=awhux&show_icons=true&theme=radical&line_height=27" alt="Awhux github stats"/>
+</a>
+
+[instagram]: https://www.instagram.com/__b.run.o__
+<br>
+
+#### Rede Sociais!
+
+📷 [instagram][instagram] **|** 
+
