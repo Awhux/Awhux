@@ -82,7 +82,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Awhux/Awhux/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Awhux/Awhux/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
