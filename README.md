@@ -6,9 +6,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 </div>
 
-## 👋 Olá, mundo dev!
+## Olá, mundo dev!
 
-> 💡 *"Código limpo é simples e direto. Código limpo lê como prosa bem escrita." – Grady Booch*
+> *"Código limpo é simples e direto. Código limpo lê como prosa bem escrita." – Grady Booch*
 
 Sou um desenvolvedor full stack de 20 anos apaixonado por transformar ideias em código. Adoro explorar novas tecnologias e desafios que me fazem crescer profissionalmente. Quando não estou na frente do computador, provavelmente estou pedalando por aí!
 
@@ -16,17 +16,17 @@ Sou um desenvolvedor full stack de 20 anos apaixonado por transformar ideias em 
   <img src="https://komarev.com/ghpvc/?username=Awhux&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 </div>
 
-## 🧠 Sobre Mim
+## Sobre Mim
 
-- 🔍 Aprofundando conhecimentos em **Machine Learning** e **Inteligência Artificial**
-- 🚲 Ciclista apaixonado - a liberdade das duas rodas me inspira
-- 🌱 Acredito no aprendizado contínuo e na evolução constante
-- 🎵 Adoro programar ouvindo uma boa playlist
-- 🌍 Sonho em trabalhar em projetos que impactem positivamente o mundo
-- 💬 Pergunte-me sobre desenvolvimento web, frameworks modernos e metodologias ágeis
-- ⚡ Entusiasta de arquitetura de software e boas práticas de desenvolvimento
+- Aprofundando conhecimentos em **Machine Learning** e **Inteligência Artificial**
+- Ciclista apaixonado - a liberdade das duas rodas me inspira
+- Acredito no aprendizado contínuo e na evolução constante
+- Adoro programar ouvindo uma boa playlist
+- Sonho em trabalhar em projetos que impactem positivamente o mundo
+- Pergunte-me sobre desenvolvimento web, frameworks modernos e metodologias ágeis
+- Entusiasta de arquitetura de software e boas práticas de desenvolvimento
 
-## 🛠️ Minha Stack Tecnológica
+## Minha Stack Tecnológica
 
 <div align="center">
   
@@ -98,7 +98,7 @@ Sou um desenvolvedor full stack de 20 anos apaixonado por transformar ideias em 
   ![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=dotnet&logoColor=white)
 </div>
 
-## 📊 Estatísticas GitHub
+## Estatísticas GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Awhux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Minha Jornada no GitHub" width="48%" />
@@ -113,60 +113,13 @@ Sou um desenvolvedor full stack de 20 anos apaixonado por transformar ideias em 
   <img src="https://github-profile-trophy.vercel.app/?username=Awhux&theme=nord&no-frame=true&row=1&column=7" width="100%" />
 </div>
 
-## 🏆 Meus Projetos Destaque
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <div align="center">
-          <h3>🌟 PrimeFlow</h3>
-          <p><i>Sistema ERP inovador para pequenas e médias empresas</i></p>
-          <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=for-the-badge" />
-          <p>Sistema ERP completo que visa melhorar a gestão de empresas de pequeno e médio porte, facilitando a conexão entre clientes e empresas com uma interface moderna e processos otimizados.</p>
-          <p><b>Tecnologias:</b> Next.js, Nitro, Postgres, Neon Database, Python, Prisma, Redis, API LLM</p>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <h3>🔐 Provadoo</h3>
-          <p><i>Projeto confidencial em desenvolvimento</i></p>
-          <img src="https://img.shields.io/badge/Status-Privado-red?style=for-the-badge" />
-          <p>Detalhes confidenciais. Projeto em desenvolvimento ativo com tecnologias de ponta.</p>
-          <p><b>Tecnologias:</b> Confidencial</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <h3>🎨 AutoDiffuse</h3>
-          <p><i>Plataforma de comunidade para modelos de IA generativa</i></p>
-          <img src="https://img.shields.io/badge/Status-Beta-blue?style=for-the-badge" />
-          <p>Comunidade de modelos de IA que geram fotos e vídeos. Os usuários podem gerar conteúdo, compartilhar e comentar nas gerações dos outros, criar vídeos personalizados com suas próprias características e compartilhar nas redes sociais.</p>
-          <p><b>Tecnologias:</b> Next.js, API Automatic1111, Python, Redis, PostgreSQL, NestJS, Queues, Tailwind</p>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <h3>🎓 Neskseat</h3>
-          <p><i>Sistema de gestão acadêmica completo</i></p>
-          <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-green?style=for-the-badge" />
-          <p>Sistema de gestão acadêmica abrangente, adaptável para cursinhos, escolas básicas, ensino médio e faculdades/universidades. Oferece uma solução ágil, robusta e modular que se ajusta a qualquer instituição de ensino.</p>
-          <p><b>Tecnologias:</b> Nuxt 3, MySQL, Prisma, Redis, Nuxt UI, Tailwind</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🚀 Minha Jornada de Código
+## Minha Jornada de Código
 
 <div align="center">
   <img src="https://github.com/Awhux/Awhux/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-## 📬 Vamos Conectar!
+## Vamos Conectar!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bruno-maciel-barros" target="_blank">
